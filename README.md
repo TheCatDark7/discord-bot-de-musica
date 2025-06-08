@@ -44,7 +44,7 @@ Un bot de Discord avanzado para reproducir música desde **YouTube**, **Spotify*
 ### 1. Clonar el Repositorio
 ```bash
 git clone https://github.com/sheaan7/discord-bot-de-musica
-cd discord-music-bot
+cd discord-bot-de-musica
 ```
 
 ### 2. Instalar Dependencias
