@@ -43,7 +43,7 @@ Un bot de Discord avanzado para reproducir música desde **YouTube**, **Spotify*
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/tu-usuario/discord-music-bot.git
+git clone https://github.com/sheaan7/discord-bot-de-musica
 cd discord-music-bot
 ```
 
@@ -240,12 +240,6 @@ Depende de dónde lo alojes. Para uso 24/7, considera servicios como Heroku, Rai
 - Regenera tokens si se comprometen
 - Revisa permisos del bot regularmente
 
-## 📞 Soporte
-
-- 🐛 **Reportar bugs**: [Issues](https://github.com/tu-usuario/discord-music-bot/issues)
-- 💡 **Sugerir features**: [Discussions](https://github.com/tu-usuario/discord-music-bot/discussions)
-- 📧 **Contacto**: tu-email@ejemplo.com
-
 ## 📜 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver [LICENSE](./LICENSE) para más detalles.
@@ -263,8 +257,8 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](./LICENSE) para más det
 
 <div align="center">
   
-**[⬆ Volver arriba](#-discord-music-bot)**
+**[⬆ Volver arriba](#-discord-bot-de-musica)**
 
-Made with ❤️ by [Tu Nombre](https://github.com/tu-usuario)
+Made with ❤️ by [sheaan7](https://github.com/sheaan7)
 
 </div>
