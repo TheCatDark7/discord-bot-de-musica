@@ -195,18 +195,6 @@ docker build -t discord-music-bot .
 docker run -d --name music-bot discord-music-bot
 ```
 
-## 🤝 Contribuir
-
-¡Las contribuciones son bienvenidas! Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add: Amazing Feature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-Lee [CONTRIBUTING.md](./CONTRIBUTING.md) para más detalles.
-
 ## 📝 Changelog
 
 ### v1.0.0 (2025-06-07)
