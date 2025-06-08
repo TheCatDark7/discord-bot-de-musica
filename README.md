@@ -1,4 +1,4 @@
-# 🎵 Discord Music Bot
+# 🎵 Discord Bot de Música ;)
 
 Un bot de Discord avanzado para reproducir música desde **YouTube**, **Spotify** y **SoundCloud** con interfaz interactiva y prefijos personalizables.
 
